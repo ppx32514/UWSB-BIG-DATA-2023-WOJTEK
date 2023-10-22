@@ -1,1 +1,2 @@
-curl -o bootstrap-sample-db.cmd "https://raw.githubusercontent.com/Microsoft/sql-server-samples/master/samples/features/sql-big-data-cluster/bootstrap-sample-db.cmd"
+insert into big_mask (colAvg, colBSum)
+values (1000, 1000);
